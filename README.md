@@ -1,7 +1,7 @@
 # Table of Contents
 - [Project Title](https://github.com/jack-meis/Hello-World/blob/main/README.md#project-title)
-- [Desciption]
-- [Methods]
+- [Desciption](https://github.com/jack-meis/Hello-World/blob/main/README.md#description)
+- [Methods](https://github.com/jack-meis/Hello-World/edit/main/README.md#description)
 - [Data Set]
 - [Data Sources]
 - [Conclusion]
