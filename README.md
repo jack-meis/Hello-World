@@ -1,5 +1,10 @@
 # Table of Contents
-
+- Project Title
+- Desciption
+- Methods
+- Data Set
+- Data Sources
+- Conclusion
 
 ## Project Title
 March Madness Predictive Analysis
