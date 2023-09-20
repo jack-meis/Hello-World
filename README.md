@@ -25,4 +25,4 @@ Identify the factors that are most significant for predicting team success in th
 - [Team Statistics](https://basketball.realgm.com/ncaa/teams)
 
 ## Conclusion
-Despite the upsets that happen each year as a part of March Madness, team ranking and seeding remains as the best predictor of success in the NCAA Tournament.
+Despite the upsets that happen each year as a part of March Madness, **team ranking and seeding remains as the best predictor of success in the NCAA Tournament**.
