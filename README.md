@@ -4,6 +4,9 @@
 ## Project Title
 March Madness Predictive Analysis
 
+## Description
+Identify the factors that are most significant for predicting team success in the NCAA Basketball Tournament.
+
 ## Methods
 - Multiple Linear Regression
 - Correlation Matrix Analysis
